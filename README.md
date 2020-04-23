@@ -61,4 +61,4 @@ The process to do that is:
 
 3. Tune Ki: this parameter requires a much smaller magnitude order than the previous ones. It is increased carefully so that the uncalibrated steering is mitigated (the car slightly drifts to the right since this simulates an uncalibrated direction of the vehicle).
 
-
+The tunned parameters have been set to default.
